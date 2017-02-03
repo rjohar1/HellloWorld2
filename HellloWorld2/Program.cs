@@ -11,6 +11,7 @@ namespace HellloWorld2
         static void Main(string[] args)
         {
             Console.WriteLine("Fixed 2nd issue");
+            Console.WriteLine("Fixed 3rd issue");
         }
     }
 }
