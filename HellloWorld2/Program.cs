@@ -12,6 +12,7 @@ namespace HellloWorld2
         {
             Console.WriteLine("Fixed 2nd issue");
             Console.WriteLine("Fixed 3rd issue");
+            Console.WriteLine("Fixed 4th issue");
         }
     }
 }
